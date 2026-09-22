@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,48:312e81,100:111827&height=190&section=header&text=FKALSASX&fontSize=66&fontColor=ffffff&fontAlignY=42&desc=FOUNDER%20OF%20HOP%20POP%20GAMES%20%E2%80%A2%20SOFTWARE%20%26%20GAME%20DEVELOPER&descAlignY=68&descSize=15&animation=fadeIn&stroke=38bdf8&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,48:312e81,100:111827&height=190&section=header&text=FKALSASX&fontSize=66&fontColor=ffffff&fontAlignY=42&desc=FOUNDER%20OF%20HOP%20POP%20GAMES%20%E2%80%A2%20SOFTWARE%20AND%20GAME%20DEVELOPER&descAlignY=68&descSize=15&animation=fadeIn&stroke=38bdf8&strokeWidth=2" />
 
 </div>
 

@@ -1,134 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=210&section=header&text=FKALSASX&fontSize=54&fontColor=F0F6FC&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20C%23%20%E2%80%A2%20.NET%20%E2%80%A2%20Windows&descAlignY=59&descSize=18&animation=fadeIn" />
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+reliable+Windows+software;Writing+clean+and+maintainable+C%23;Designing+tools+for+real-world+problems;Build.+Test.+Ship.+Improve.)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=fkalsasx&label=PROFILE+VIEWS&color=1f6feb&style=flat-square)](https://github.com/fkalsasx)
-[![Followers](https://img.shields.io/github/followers/fkalsasx?label=FOLLOWERS&style=flat-square&color=238636)](https://github.com/fkalsasx?tab=followers)
-[![Latest Release](https://img.shields.io/github/v/release/fkalsasx/CrashGuard-Engine?label=LATEST+RELEASE&style=flat-square&color=8957e5)](https://github.com/fkalsasx/CrashGuard-Engine/releases/latest)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,48:312e81,100:111827&height=190&section=header&text=FKALSASX&fontSize=66&fontColor=ffffff&fontAlignY=42&desc=FOUNDER%20OF%20HOP%20POP%20GAMES%20%E2%80%A2%20SOFTWARE%20%26%20GAME%20DEVELOPER&descAlignY=68&descSize=15&animation=fadeIn&stroke=38bdf8&strokeWidth=2" />
 
 </div>
 
-## `$ whoami`
-
-I'm a software developer from **Türkiye**, focused on Windows desktop applications, diagnostics, automation, and maintainable system design.
-
-I build tools that solve concrete problems. My priorities are clear architecture, predictable behavior, careful error handling, and interfaces that explain what the software is doing.
-
-Türkiye'de yaşayan bir yazılım geliştiricisiyim. Windows masaüstü uygulamaları, tanılama sistemleri ve otomasyon araçları geliştiriyorum. Sade mimariyi, güvenilir davranışı ve anlaşılır kullanıcı deneyimini önemsiyorum.
-
-```csharp
-namespace Fkalsasx;
-
-public sealed record Developer
-{
-    public string Location => "Türkiye";
-    public string[] Stack  => ["C#", ".NET 8", "WPF", "SQLite", "PowerShell"];
-    public string[] Focus  => ["Desktop Software", "Diagnostics", "Automation"];
-
-    public string Workflow => "Understand → Design → Build → Test → Ship";
-}
-```
-
-## `$ ls ./toolbox`
-
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,sqlite,powershell&theme=dark&perline=8)](https://skillicons.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=820&lines=Making+games+and+useful+software;Learning+by+building+real+projects;Turning+small+ideas+into+finished+products)](https://git.io/typing-svg)
 
-<br/>
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+[![Profile Views](https://komarev.com/ghpvc/?username=fkalsasx&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)](https://github.com/fkalsasx)
+[![Followers](https://img.shields.io/github/followers/fkalsasx?label=FOLLOWERS&style=for-the-badge&color=0ea5e9)](https://github.com/fkalsasx?tab=followers)
 
 </div>
 
-## `$ cat featured-project.md`
+## Hi, I'm Fkalsasx 👋
+
+I'm a software and game developer from **Türkiye**, and the founder of **Hop Pop Games**.
+
+I like building projects from the first rough idea all the way to a release people can actually download and use. Some days that means designing a puzzle or tuning a game scene; other days it means tracking down a crash, cleaning up an interface, or making an installer behave properly.
+
+Türkiye'de yaşayan bir yazılım ve oyun geliştiricisiyim. **Hop Pop Games'i**, kendi oyun fikirlerimi geliştirip paylaşmak için kurdum. Öğrenmenin en iyi yolunun gerçekten bir şeyler üretmek olduğuna inanıyorum; bu yüzden fikirlerimi küçük de olsa tamamlanmış projelere dönüştürmeye çalışıyorum.
+
+## 🎮 Hop Pop Games
+
+**Hop Pop Games** is my independent game label. It is still growing, but the goal is simple: make small games with their own personality, take the details seriously, and keep improving with every release.
+
+Burada büyük bir ekip görüntüsü vermeye çalışmıyorum. Tasarım, kodlama, test ve yayınlama süreçlerini kendim öğrenerek ilerliyorum. Her yeni proje, bir öncekinden daha iyi bir oyun yapma fırsatı.
+
+<div align="center">
+
+![Godot](https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Indie Games](https://img.shields.io/badge/INDIE_GAMES-7C3AED?style=for-the-badge&logo=itchdotio&logoColor=white)
+![Windows](https://img.shields.io/badge/WINDOWS-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+
+</div>
+
+## Projects I've been working on
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-### CrashGuard Engine
+### 🌿 Mimo & the Bloombop
 
-A Windows desktop application for game integrity scanning, crash investigation, and safe recovery.
+My first published game project under Hop Pop Games. It is a Turkish/English echo-puzzle adventure built with Godot for Windows.
 
-`C#` `.NET 8` `WPF` `SQLite` `Windows x64`
+I worked on the game design, atmosphere, puzzles, bilingual presentation, packaging, and release page. The project taught me a lot about turning a playable idea into something another person can download and experience.
 
-- Discovers installations across popular game platforms
-- Performs read-only, cancellable integrity scans
-- Correlates crash evidence, files, and mod relationships
-- Presents confidence, risk, and verification steps clearly
-- Ships as a self-contained Windows x64 package
-
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github)](https://github.com/fkalsasx/CrashGuard-Engine)
-[![Download](https://img.shields.io/badge/DOWNLOAD_v1.0.0-238636?style=for-the-badge&logo=windows)](https://github.com/fkalsasx/CrashGuard-Engine/releases/latest)
+[![Project Page](https://img.shields.io/badge/PROJECT_PAGE-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fkalsasx/mimo-and-the-bloombop)
+[![Play on Windows](https://img.shields.io/badge/PLAY_ON_WINDOWS-22C55E?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/fkalsasx/mimo-and-the-bloombop/releases/latest)
 
 </td>
-<td width="40%" valign="top">
+<td width="50%" valign="top">
 
-<a href="https://github.com/fkalsasx/CrashGuard-Engine">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=fkalsasx&repo=CrashGuard-Engine&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=3FB950" />
-</a>
+### 🛡️ CrashGuard Engine
+
+A Windows utility I built for game integrity scanning, crash investigation, and safer recovery. It brings technical information together in a way that is easier to understand.
+
+While building it, I focused on read-only scans, cancellable operations, clear results, and careful error handling. It is written with C#, .NET 8, WPF, and SQLite.
+
+[![Project Page](https://img.shields.io/badge/PROJECT_PAGE-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fkalsasx/CrashGuard-Engine)
+[![Latest Release](https://img.shields.io/github/v/release/fkalsasx/CrashGuard-Engine?style=for-the-badge&label=DOWNLOAD&color=0EA5E9)](https://github.com/fkalsasx/CrashGuard-Engine/releases/latest)
 
 </td>
 </tr>
 </table>
 
-## `$ cat engineering-principles.txt`
-
-`01` **Understand first** — choose technology after understanding the problem.  
-`02` **Keep it explainable** — architecture should be clear enough to draw on one page.  
-`03` **Design for failure** — test recovery paths, invalid input, and partial results.  
-`04` **Make risk visible** — destructive operations must be explicit and reversible.  
-`05` **Ship deliberately** — package, document, verify, then release.
-
-## `$ github --stats`
+## What I use
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=fkalsasx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3FB950&text_color=C9D1D9" alt="GitHub statistics" />
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkalsasx&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=fkalsasx&bg_color=0D1117&color=8B949E&line=58A6FF&point=3FB950&area=true&area_color=1F6FEB&hide_border=true&custom_title=Contribution%20Timeline" alt="Contribution timeline" />
+[![Skills](https://skillicons.dev/icons?i=godot,cs,dotnet,visualstudio,vscode,git,github,sqlite,powershell&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
-## `$ status`
+- **Game development:** Godot, game design, puzzle design, Windows exports
+- **Desktop development:** C#, .NET 8, WPF, SQLite
+- **Everyday tools:** Visual Studio, VS Code, Git, GitHub, PowerShell
+- **Things I care about:** readable code, useful interfaces, testing, and actually finishing projects
 
-`[████████████████████]` CrashGuard Engine v1.0.0 — released  
-`[███████████░░░░░░░░░]` Expanding the project portfolio  
-`[██████░░░░░░░░░░░░░░]` Automated build and release workflow
-
-<details>
-<summary><b>What I care about in software</b></summary>
-<br/>
-
-- Small components with clear responsibilities
-- Useful logs and actionable error messages
-- Local-first and privacy-conscious behavior
-- Measurable evidence instead of vague assumptions
-- Documentation that helps the next developer move faster
-- Releases that users can verify and trust
-
-</details>
-
----
+## GitHub at a glance
 
 <div align="center">
 
-### `build → test → ship → learn → repeat`
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fkalsasx&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=38bdf8&text_color=cbd5e1&ring_color=7c3aed" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkalsasx&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cbd5e1" />
 
-[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-1F6FEB?style=for-the-badge&logo=github)](https://github.com/fkalsasx?tab=repositories)
-[![CrashGuard](https://img.shields.io/badge/CRASHGUARD_ENGINE-238636?style=for-the-badge&logo=windows)](https://github.com/fkalsasx/CrashGuard-Engine)
-
-<br/><br/>
-<sub>One problem. One solution. One commit at a time.</sub>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=fkalsasx&bg_color=0d1117&color=cbd5e1&line=8b5cf6&point=38bdf8&area=true&hide_border=true" />
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=110&section=footer" />
+## Right now
+
+- Improving **Mimo & the Bloombop** and learning from its first release
+- Expanding **CrashGuard Engine** with a focus on reliability
+- Growing **Hop Pop Games** one finished project at a time
+- Learning more about game feel, UI design, and release workflows
+
+<div align="center">
+
+### Thanks for stopping by.
+
+If one of my projects looks interesting, feel free to explore the repository or try the latest release.
+
+[![My Repositories](https://img.shields.io/badge/MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fkalsasx?tab=repositories)
+[![Email](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fkalsasx@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,55:0f172a,100:020617&height=120&section=footer" />
+
+</div>

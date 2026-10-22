@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-labelledby="title desc">
+<title id="title">Mimo and the Bloombop — a little world worth exploring</title><desc id="desc">A Turkish and English echo-puzzle adventure for Windows, built with Godot. Animated echo rings and fireflies.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17201d"/><stop offset="1" stop-color="#121915"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.echo{transform-origin:506px 92px;animation:echo 5s ease-out infinite}.e2{animation-delay:-2.5s}.spark{animation:float 5s ease-in-out infinite}.s2{animation-delay:-2s}@keyframes echo{0%{transform:scale(.55);opacity:0}20%{opacity:.65}100%{transform:scale(1.22);opacity:0}}@keyframes float{50%{transform:translateY(-7px);opacity:.45}}@media(prefers-reduced-motion:reduce){.echo,.spark{animation:none}.echo{opacity:.25}}</style>
+<rect x="1" y="1" width="588" height="298" rx="18" fill="url(#bg)" stroke="#314035"/>
+<text x="30" y="42" fill="#a7b794" font-size="12" letter-spacing="2">03 / INTERACTIVE EXPERIENCES</text>
+<g fill="none" stroke="#b6ce96"><circle class="echo" cx="506" cy="92" r="34"/><circle class="echo e2" cx="506" cy="92" r="34"/><path d="M506 110V85m0 14c-15 0-21-8-21-17 14 0 21 7 21 17Zm0-8c0-14 7-23 21-25 0 15-8 24-21 25Z" stroke-width="1.6"/></g>
+<g fill="#d1e5a8"><circle class="spark" cx="467" cy="72" r="2"/><circle class="spark s2" cx="539" cy="121" r="2"/><circle class="spark" cx="532" cy="56" r="1.5"/></g>
+<text x="30" y="111" fill="#f0f2eb" font-size="32" font-weight="700" letter-spacing="-1">Mimo</text>
+<text x="31" y="140" fill="#a9b993" font-size="17" letter-spacing="2">&amp; THE BLOOMBOP</text>
+<text x="30" y="187" fill="#d0d7bf" font-size="20">A little world worth exploring.</text>
+<text x="30" y="218" fill="#9fae95" font-size="16">An echo-puzzle adventure in Turkish &amp; English.</text>
+<path d="M30 246H560" stroke="#314032"/>
+<text x="30" y="274" fill="#b5c7a0" font-size="12" letter-spacing="1.2">GODOT / PUZZLES / WINDOWS</text>
+<text x="558" y="275" fill="#ccddb8" font-size="22" text-anchor="end">↗</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-labelledby="title">
+<title id="title">Designed with intent. Built to be used.</title>
+<defs><linearGradient id="line"><stop stop-color="#89cdb1" stop-opacity="0"/><stop offset=".5" stop-color="#89cdb1"/><stop offset="1" stop-color="#89cdb1" stop-opacity="0"/></linearGradient></defs>
+<style>.light{animation:drift 10s ease-in-out infinite}@keyframes drift{0%,100%{transform:translateX(-100px);opacity:0}20%,80%{opacity:1}90%{transform:translateX(1150px);opacity:0}}@media(prefers-reduced-motion:reduce){.light{animation:none;opacity:0}}</style>
+<path d="M0 1H1200" stroke="#344b40"/>
+<path class="light" d="M0 1H150" stroke="url(#line)" stroke-width="2"/>
+<text x="600" y="48" text-anchor="middle" fill="#8ca99b" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">DESIGNED WITH INTENT. BUILT TO BE USED.</text>
+</svg>

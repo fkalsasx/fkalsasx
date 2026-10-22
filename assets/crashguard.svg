@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="300" viewBox="0 0 590 300" role="img" aria-labelledby="title desc">
+<title id="title">CrashGuard Engine — clarity when things break</title><desc id="desc">Windows integrity scanning, crash analysis, and safe recovery. C#, .NET 8, WPF, SQLite. A softly animated scanner.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141b22"/><stop offset="1" stop-color="#11171d"/></linearGradient></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.ring{transform-origin:505px 90px;animation:turn 14s linear infinite}.p{animation:pulse 4s ease-in-out infinite}@keyframes turn{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.4}}@media(prefers-reduced-motion:reduce){.ring,.p{animation:none}}</style>
+<rect x="1" y="1" width="588" height="298" rx="18" fill="url(#bg)" stroke="#2c3844"/>
+<text x="30" y="42" fill="#8fa3bc" font-size="12" letter-spacing="2">02 / WINDOWS ENGINEERING</text>
+<g fill="none"><circle cx="505" cy="93" r="37" stroke="#243546"/><circle class="ring" cx="505" cy="93" r="37" stroke="#9cbfe9" stroke-width="2" stroke-dasharray="40 193"/><path d="m505 74 15 7v14c0 11-15 20-15 20s-15-9-15-20V81Z" stroke="#8eafd3" stroke-width="1.5"/><path class="p" d="m498 94 5 5 9-11" stroke="#bfd5ee" stroke-width="2"/></g>
+<text x="30" y="111" fill="#f0f2eb" font-size="32" font-weight="700" letter-spacing="-1">CrashGuard</text>
+<text x="31" y="140" fill="#92a8c1" font-size="17" letter-spacing="3">ENGINE</text>
+<text x="30" y="187" fill="#c6d3df" font-size="20">Clarity when things break.</text>
+<text x="30" y="218" fill="#91a3b4" font-size="16">Integrity scans, crash analysis, safe recovery.</text>
+<path d="M30 246H560" stroke="#293947"/>
+<text x="30" y="274" fill="#9fb8d0" font-size="12" letter-spacing="1.2">C# / .NET 8 / WPF / SQLITE</text>
+<text x="558" y="275" fill="#b5cce3" font-size="22" text-anchor="end">↗</text>
+</svg>

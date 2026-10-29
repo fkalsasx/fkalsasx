@@ -20,6 +20,13 @@ Independent developer based in **Türkiye**.<br />I build useful software, thoug
 
 <a href="https://github.com/fkalsasx/CrashGuard-Engine"><img src="assets/crashguard.svg" width="49%" alt="CrashGuard Engine — Windows integrity scanning, crash analysis, and safe recovery. C#, .NET 8, WPF, SQLite." /></a> <a href="https://github.com/fkalsasx/mimo-and-the-bloombop"><img src="assets/mimo.svg" width="49%" alt="Mimo and the Bloombop — a Turkish and English echo-puzzle adventure for Windows, built with Godot." /></a>
 
+### More projects
+
+| Project | Overview |
+| :--- | :--- |
+| [Riftevora](https://github.com/fkalsasx/riftevora) | A Windows companion for exploring official League of Legends artwork and managing community mod packages. |
+| [Veskoryn](https://github.com/fkalsasx/veskoryn) | A browser-playable Xash3D FWGS / CS16Client experience with a classic menu, live server browser, and favorites. |
+
 <br />
 
 ### Behind the work
